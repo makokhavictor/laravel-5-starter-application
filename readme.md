@@ -21,7 +21,7 @@ Laravel starter application. This project will be a gump start for any size web 
  * Account Confirmation By E-mail
 * [Mailgun Transactional Email Templates](https://github.com/mailgun/transactional-email-templates)
 
-## Contributing
+## Contributing Test
 
 Thank you for considering contributing to the this project. Feel free to send a Merge Request.
 
